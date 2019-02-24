@@ -13,6 +13,7 @@
 
 
 ## Screnshot
-    <img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175413.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
-    <img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175419.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
-    <img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175425.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
+
+<img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175413.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
+<img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175419.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
+<img src="https://github.com/nirav4273/flutter_bloc_http/blob/master/images/Screenshot_20190224-175425.jpg" width="230" height="400" alt="Brand-first shopping design" align="left">
